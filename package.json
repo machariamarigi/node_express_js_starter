@@ -1,0 +1,8 @@
+{
+  "name": "node_express_js_starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/machariamarigi/node_express_js_starter.git",
+  "author": "machariamarigi <machariamarigi@gmail.com>",
+  "license": "MIT"
+}
