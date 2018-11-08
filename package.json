@@ -6,7 +6,8 @@
   "author": "machariamarigi <machariamarigi@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "build": "babel ./src -d ./build"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
